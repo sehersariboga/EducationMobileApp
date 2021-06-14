@@ -1,0 +1,12 @@
+Created by SEHER on 14.06.2021
+
+This is a concept file with following syntax for each concept.
+
+# Üye ol/giriş yap butonuna tıkla
+* "com.mobisoft.kitapyurdu:id/btn_login" id li elemente tıkla
+
+# Kullanıcı adı alanına <username> bilgisini ve şifre alanına <password> bilgisini gir ve giriş yap butonuna bas
+*"com.mobisoft.kitapyurdu:id/textview_mail" id li elemente <username>  değerini yaz
+*"com.mobisoft.kitapyurdu:id/textview_password" id li elemente <password>  değerini yaz
+*"com.mobisoft.kitapyurdu:id/loginButton" id li elemente tıkla
+*"3" saniye bekle
